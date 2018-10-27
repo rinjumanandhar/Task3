@@ -105,24 +105,25 @@ input[type=submit]:hover {
     text-align: center;
 }
 
-  .col-md-6 {
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid #ffffff;
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-    grid-column-gap: 5px;
+  .head h3 {
+    background-color:#ffb6c1;
   }
 
-  .col-md-12 {
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid #070707;
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-   
+  .blockstyle {
+    background-color:black;
+    color:white;padding:20px
   }
 
+  .inlinestyle {
+    background-color:#b0c4de;
+    color:#0c0b0b;
+    padding:20px;
+    
+  }
+
+
+
+  
 
 
 
